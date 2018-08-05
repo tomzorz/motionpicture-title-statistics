@@ -6,7 +6,7 @@
 
 ## What is this?
 
-If you're facing the very **theoretical** and **hypothetical** problem that is storing motion pictures in alphabetical order, in many not equally sized storage "areas" you'll find this project helpful. l
+If you're facing the very **theoretical** and **hypothetical** problem that is storing motion pictures in alphabetical order, in many not equally sized storage "areas" you'll find this project helpful.
 
 **As an example:**
 
