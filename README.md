@@ -12,7 +12,7 @@ If you're facing the very **theoretical** and **hypothetical** problem that is s
 
 You have one storage "areas" of 2 units, 10 units and 1 unit. Where do you "draw the lines" between the letters? 
 
-Answering A-D for 2 units, E-X for 10 units and Y-Z for 1 unit is not really sensible, as there are barely any motion pictures where the title begins with a 'Y' or 'Z'.l
+Answering A-D for 2 units, E-X for 10 units and Y-Z for 1 unit is not really sensible, as there are barely any motion pictures where the title begins with a 'Y' or 'Z'.
 
 This project cleans up all the titles in the source database, and calculates the frequency of each letter at the beginning of the title, allowing you to make an informed decision about your **super hypothetical** problems regarding storage.
 
